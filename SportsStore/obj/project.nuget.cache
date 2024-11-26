@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "imhGdOjPzerRcj/tqe1MERCi1pNgmfS3lZPurXDPKVLKFPlumZdUQB6eWkZAKIkkvUYYK5WWX8PSRwVMwOUp4w==",
+  "dgSpecHash": "0Zgm2BVJXxwpn0INID8CWORZyeHg+zTC5SwcNW1g6TpLQA+Yqd3gXcqSpNIx8VsgCBd3nhVzBuXN3JwOD6+tnA==",
   "success": true,
   "projectFilePath": "D:\\2_ESTUDOS\\1_Csharp\\Livro AspNet\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
@@ -45,11 +45,7 @@
     "C:\\Users\\ander\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+    "C:\\Users\\ander\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

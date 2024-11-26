@@ -94,6 +94,12 @@ public class HomeControllerTests
         Assert.Equal("P5", prodArray[1].Name);
     
     }
+    
+    /// <summary>
+    //  this test creates a mock repository containing Product objects that belong to a range of categories. 
+    //one specific category is requested using the action method, and the results are checked to ensure that
+    //the results are the right objects in the right order.
+    /// </summary>
     [Fact]
     public void Can_Filter_Products(){
     //Arrange
@@ -119,4 +125,7 @@ public class HomeControllerTests
     Assert.True(result[0].Name == "P2" && result[0].Category == "Cat2");
     Assert.True(result[1].Name == "P4" && result[0].Category == "Cat2");
 }
+
+
+
 }
